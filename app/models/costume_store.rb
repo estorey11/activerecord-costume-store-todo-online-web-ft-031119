@@ -1,2 +1,0 @@
-class CostumeStore
-end
